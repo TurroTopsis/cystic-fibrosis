@@ -1,1 +1,1 @@
-# cystic-fibrosis
+# Cystic Fibrosis
