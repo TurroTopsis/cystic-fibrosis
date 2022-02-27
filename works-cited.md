@@ -15,6 +15,17 @@ Kenigsberg, B. (2022, January 20). ‘Salt in My Soul’ Review: Living, Even Th
 Purcell, J. (2022, January 10). Living with an Invisible Illness. _Cystic Fibrosis Foundation_. Retrieved January 18, 2022, from https://www.cff.org/community-posts/2022-01/living-invisible-illness?sf158274053=1&fbclid=IwAR1hO46zMasPP7HUIqpyvZzIHUVUxLDJCwxPwSNqzu_06qaZqxUaPqA9Dcc
 > This article was particularly helpful in examining the mental effects of CF on patients. As a CF patient herself, the author, Julia Purcell provides a unique perspective on the mental effects of CF. As an “invisible” illness, it is not apparent that a patient is sick just from looking at them, even though they require various treatments, so others often do not understand their requirements. As Purcell explains, “I wish people knew that even if I don’t look sick, I still struggle with the mental and physical aspects of cystic fibrosis.” This emphasizes that CF affects every aspect of the patient’s life, including mental health. 
 
+### Genes and Proteins:
+
+_Basics of the CFTR Protein_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/research-clinical-trials/basics-cftr-protein
+> This article explained the purpose of functional CFTR (cystic fibrosis transmembrane conductance regulator), and how its mutation causes CF. CFTR is a protein made of approximately 1,480 amino acids that acts as an ion channel, facilitating the transport of Cl- from the cytoplasm to the extracellular matrix. This extracellular Cl- attracts water to the cell surface, allowing cilia (hairs on the surface of lung cells) to sweep excess mucus out of airways. In CF patients, CFTR is dysfunctional, so Cl- is not transported to the matrix, so water doesn’t hydrate the cell surface. This causes mucus covering cells to become thick and sticky, clogging the airways. 
+
+_CF Genetics: The Basics_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/intro-cf/cf-genetics-basics
+> This article was helpful in summarizing the genetic basis of CF. CF is an autosomal recessive disease, which means that if a person inherits 2 mutated copies of CFTR, they have CF, but if they inherit only 1 mutated copy of CFTR, they are a carrier that doesn’t have CF, but can pass it on to their children. Approximately 10,000,000 Americans are CF carriers, while approximately 30,000 Americans have CF: it makes logical sense that there are more carriers than patients since it is less likely to inherit 2 than 1 mutated gene.
+
+_Types of CFTR Mutations_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/research-clinical-trials/types-cftr-mutations
+> This article provided an in-depth view of the 5 types of CF-causing mutations. Protein production mutations—such as nonsense and slice mutations—results in dysfunctional CFTR being produced. In protein processing mutations—such as missense mutations and F508del, the most common CF-causing mutation—normal CFTR is produced, but it is made dysfunctional by the time it reaches the cell membrane or never reaches the membrane at all. Gating mutations cause CFRT to be permanently closed as an ion channel. Conduction mutations cause Cl- to flow through CFRT slower. Insufficient protein means that simply not enough CFTR is produced to deal with all the Cl-. 
+
 ### Diagnosis:
 
 _Carrier Testing for Cystic Fibrosis_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/intro-cf/carrier-testing-cystic-fibrosis
@@ -35,17 +46,6 @@ _Sweat test_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, fr
 _Theratyping_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/research-clinical-trials/theratyping
 > This article explained the process of theratyping, which matches therapies to specific types of mutations to identify which modulators work on which mutations. The necessity of theratyping derives from the fact that it is difficult for companies to produce modulators for patients with rare mutations since there are not enough patients available for a clinical trial. Researchers are testing modulators on cell lines with rare CFTR mutations to see if it improves protein function. This effectively replaces the need for clinical trials for patients with rare mutations and allows researchers to match modulators to rare mutations, saving time, money, and lives. 
 
-### Genes and Proteins:
-
-_Basics of the CFTR Protein_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/research-clinical-trials/basics-cftr-protein
-> This article explained the purpose of functional CFTR (cystic fibrosis transmembrane conductance regulator), and how its mutation causes CF. CFTR is a protein made of approximately 1,480 amino acids that acts as an ion channel, facilitating the transport of Cl- from the cytoplasm to the extracellular matrix. This extracellular Cl- attracts water to the cell surface, allowing cilia (hairs on the surface of lung cells) to sweep excess mucus out of airways. In CF patients, CFTR is dysfunctional, so Cl- is not transported to the matrix, so water doesn’t hydrate the cell surface. This causes mucus covering cells to become thick and sticky, clogging the airways. 
-
-_CF Genetics: The Basics_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/intro-cf/cf-genetics-basics
-> This article was helpful in summarizing the genetic basis of CF. CF is an autosomal recessive disease, which means that if a person inherits 2 mutated copies of CFTR, they have CF, but if they inherit only 1 mutated copy of CFTR, they are a carrier that doesn’t have CF, but can pass it on to their children. Approximately 10,000,000 Americans are CF carriers, while approximately 30,000 Americans have CF: it makes logical sense that there are more carriers than patients since it is less likely to inherit 2 than 1 mutated gene.
-
-_Types of CFTR Mutations_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/research-clinical-trials/types-cftr-mutations
-> This article provided an in-depth view of the 5 types of CF-causing mutations. Protein production mutations—such as nonsense and slice mutations—results in dysfunctional CFTR being produced. In protein processing mutations—such as missense mutations and F508del, the most common CF-causing mutation—normal CFTR is produced, but it is made dysfunctional by the time it reaches the cell membrane or never reaches the membrane at all. Gating mutations cause CFRT to be permanently closed as an ion channel. Conduction mutations cause Cl- to flow through CFRT slower. Insufficient protein means that simply not enough CFTR is produced to deal with all the Cl-. 
-
 ### Treatments:
 
 Da Silva Sanchez, A., Paunovska, K., Cristian, A., & Dahlman, J. E. (2020). Treating Cystic Fibrosis with mRNA and CRISPR. _Human gene therapy_, 31(17-18), 940–955. https://doi.org/10.1089/hum.2020.137
@@ -62,6 +62,8 @@ Maule, G., Arosio, D., & Cereseto, A. (2020). Gene Therapy for Cystic Fibrosis: 
 
 Schwank, G., Koo, B. K., Sasselli, V., Dekkers, J. F., Heo, I., Demircan, T., Sasaki, N., Boymans, S., Cuppen, E., van der Ent, C. K., Nieuwenhuis, E. E., Beekman, J. M., & Clevers, H. (2013). Functional repair of CFTR by CRISPR/Cas9 in intestinal stem cell organoids of cystic fibrosis patients. _Cell stem cell_, 13(6), 653–658. https://doi.org/10.1016/j.stem.2013.11.002
 > This journal article describes a study that demonstrates the plausibility of using homologous recombination in primary adult stem cells to treat CF. First, the researchers created epithelial organoids out of human intestinal stem cells. In some human intestinal stem cells, they used CRISPR to edit the CFTR gene through homologous recombination, in which they introduce the correct CFTR gene through a plasmid vector to replace the mutated CFTR gene in the CF patient. These edited stem cells then produced organoids that did not express CF conditions: instead, the edited stem cell produced an organism composed of cells with the correct CFTR gene, which expressed the functional protein. This suggests that CRISPR-based homologous recombination of intestinal stem cells in CF patients is a viable method to treat CF. This source built upon the CRISPR treatment description included in the study by Geurts, et al. as it considered the genetic editing of stem cells, not differentiated cells. 
+
+### Images
 
 ## Conclusion
 
