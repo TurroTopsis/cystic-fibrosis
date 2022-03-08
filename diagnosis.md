@@ -7,7 +7,7 @@ With only approximately 1,000 new cases of CF diagnosed annually, it is quite a 
 *   Approximately 70,000 people worldwide have CF (1 in 100,000)
 
 ![Population Frequency Infographic](img/frequency.png)
-_Even though Americans have disproportionately more CF cases than anywhere else in the world, only 1 in 10,000 Americans have CF, making it quite a rare genetic disorder._
+_Even though the United States has disproportionately more CF cases than anywhere else in the world, only 1 in 10,000 Americans have CF, making it quite a rare genetic disorder._
 
 ## Carrier Testing
 
