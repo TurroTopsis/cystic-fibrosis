@@ -11,7 +11,7 @@ The **recessive allele** (denoted by a lowercase c) carries a gene that produces
   - Approximately 10,000,000 Americans are CF carriers (1 in 30)
 - If an individual inherits 0 recessive alleles, they are unaffected by CF
 
-The following Punnett Squares express the probability of a set of parents having certain children
+The following Punnett Squares express the probability of a set of parents having certain children:
 
 ![Punnett Square Key](img/key.png)
 
@@ -29,8 +29,10 @@ The following Punnett Squares express the probability of a set of parents having
 
 * * *
 There are 5 categories of CF-causing mutations:
-1. Protein Production
-2. Protein Processing
-3. Gating
-4. Conduction
-5. Insufficient Protein 
+1. **Protein Production** 
+  - Test 1
+  1. Test 2
+3. **Protein Processing** 
+4. **Gating**
+5. **Conduction**
+6. **Insufficient Protein**
