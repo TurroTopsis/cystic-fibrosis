@@ -30,8 +30,7 @@ The following Punnett Squares express the probability of a set of parents having
 * * *
 There are 5 categories of CF-causing mutations:
 1. **Protein Production** 
-  - Test 1
-  1. Test 2
+    1. Test
 3. **Protein Processing** 
 4. **Gating**
 5. **Conduction**
