@@ -14,9 +14,23 @@ The **recessive allele** (denoted by a lowercase c) carries a gene that produces
 The following Punnett Squares express the probability of a set of parents having certain children
 
 ![Punnett Square Key](img/key.png)
+
 ![Unaffected & Unaffected Cross](img/Unaffected_Unaffected.png)
+
 ![Unaffected & Carrier Cross](img/Unaffected_Carrier.png)
+
 ![Unaffected & Patient Cross](img/Unaffected_Patient.png)
+
 ![Carrier & Carrier Cross](img/Carrier_Carrier1.png)
+
 ![Carrier & Patient Cross](img/Carrier_Patient.png)
+
 ![Patient & Patient Cross](img/Patient_Patient.png)
+
+* * *
+There are 5 categories of CF-causing mutations:
+1. Protein Production
+2. Protein Processing
+3. Gating
+4. Conduction
+5. Insufficient Protein 
