@@ -11,11 +11,11 @@ The **recessive allele** (denoted by a lowercase c) carries a gene that produces
   - Approximately 10,000,000 Americans are CF carriers (1 in 30)
 - If an individual inherits 0 recessive alleles, they are unaffected by CF
 
-The following Punnett Squares express the probability of a given set of parents have certain children
+The following Punnett Squares express the probability of a set of parents have certain children
 ![Punnett Square Key](img/key.png)
 ![Unaffected & Unaffected Cross](img/Unaffected_Unaffected.png)
 ![Unaffected & Carrier Cross](img/Unaffected_Carrier.png)
 ![Unaffected & Patient Cross](img/Unaffected_Patient.png)
-![Carrier & Carrier Cross](img/Carrier_Carrier.png)
+![Carrier & Carrier Cross](img/Carrier_Carrier1.png)
 ![Carrier & Patient Cross](img/Carrier_Patient.png)
 ![Patient & Patient Cross](img/Patient_Patient.png)
