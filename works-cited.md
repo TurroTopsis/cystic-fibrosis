@@ -67,6 +67,8 @@ Purcell, J. (2022, January 10). Living with an Invisible Illness. _Cystic Fibros
 
 ### Images
 
+_Person Graphic_. https://img.favpng.com/21/6/5/silhouette-person-clip-art-png-favpng-rBwRnnmjHZHRrKSraN1ZEKybR.jpg
+
 ## Conclusion
 
 From my research, I have learned that biotechnology will be the future of CF treatment as it targets the genetic source of the disorder, rather than its symptoms, to improve patients’ lives. CRISPR is especially important in the treatment of CF as it can replace the dysfunctional CFTR gene with a functional one, essentially curing the disease by producing the CFTR proteins the lungs need to maintain the proper water-salt balance. While CRISPR has been successfully used in various studies to genetically edit patient-derived organoids to produce functional CFTR, in live patients, it would be more difficult to get the CRISPR-based drugs into lung cells, where it is needed to function. Not only is it generally difficult to apply CRISPR to live cells, but lung cells are especially difficult targets as their mucus layer prevents foreign bodies from entering the cell. Despite this, researchers have made various strides in applying CRISPR to cultured human epithelial cells in order to emulate the difficulty of applying drugs to mucus-covered lung cells in live patients. Research in using biotechnology to treat CF is ongoing, and I was surprised to learn that these studies are so well-funded and readily available, considering that CF is a relatively rare genetic disease. It seems that, even though CF affects few patients, since its effects have a truly devastating effect on patients’ lives, much research has been done to help them.
