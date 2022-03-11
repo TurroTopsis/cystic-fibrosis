@@ -18,8 +18,8 @@ To help a couple understand their chances of having a child with CF, the parents
 
 Approximately 75% of patients are diagnosed with CF by the time they are 2 years old thanks to newborn screening (NBS), a national program that checks if babies have certain health conditions, including CF. Early diagnosis of CF can help parents keep their babies healthy to prevent or delay the onset of symptoms. 
 
-Within the first few days of the baby’s life, a few blood drops from a heel prick are put on a Guthrie card, which is sent to be tested for various health conditions, including CF. Different states have different methods to check for CF from the Guthrie card:
-- All states check the level of immunoreactive trypsinogen (IRT) in the blood. Healthy babies have low levels of IRT, whereas babies that experienced a premature/stressful delivery or have CF have high levels of IRT. Thus, if they find high IRT levels in a blood sample, it is an indication that the baby may have CF, but a sweat test is required to complete the diagnosis.
+Within the first few days of the baby’s life, a few blood drops from a heel prick are put on a _Guthrie card_, which is sent to be tested for various health conditions, including CF. Different states have different methods to check for CF from the Guthrie card:
+- All states check the level of _immunoreactive trypsinogen (IRT)_ in the blood. Healthy babies have low levels of IRT, whereas babies that experienced a premature/stressful delivery or have CF have high levels of IRT. Thus, if they find high IRT levels in a blood sample, it is an indication that the baby may have CF, but a sweat test is required to complete the diagnosis.
   - If a baby has low IRT levels and its sweat test returned negative, they are unaffected
   - If a baby has high IRT levels and its sweat test returned negative, they are a carrier
   - If a baby has high IRT levels and its sweat test returned positive, they have CF
