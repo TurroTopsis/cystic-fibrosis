@@ -71,6 +71,8 @@ _CFTR Protein_. https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-f
 
 _Person Graphic_. https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Protein_CFTR_PDB_1xmi.png/800px-Protein_CFTR_PDB_1xmi.png
 
+_Sweat Test_. https://www.cff.org/sites/default/files/styles/image_card/public/webimage-A65FA1B9-6634-431A-9BA6E23A07E9D43B.jpg?itok=rAg3Lga-
+
 _Types of Mutations_. https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/
 
 ## Conclusion
