@@ -26,7 +26,7 @@ Within the first few days of the baby’s life, a few blood drops from a heel pr
 
 ## Sweat Test
 
-The most reliable way to diagnose CF is to perform a sweat test, a painless one hour exam that measures the amount of Cl<sup>-</sup> in the sweat. First, pilocarpine, a colorless, odorless chemical, and electrical stimulation is applied to the arm or leg to stimulate sweat glands to produce. The sweat is then collected and tested for its Cl<sup>-</sup> concentration. The very same day, a diagnosis is issued:
--   If an individual has less than 29 millimoles Cl<sup>-</sup> per liter of sweat, they most likely do not have CF
+The most reliable way to diagnose CF is to perform a sweat test, a painless one hour exam that measures the amount of Cl⁻ in the sweat. First, pilocarpine, a colorless, odorless chemical, and electrical stimulation is applied to the arm or leg to stimulate sweat glands to produce. The sweat is then collected and tested for its Cl⁻ concentration. The very same day, a diagnosis is issued:
+-   If an individual has less than 29 millimoles Cl⁻ per liter of sweat, they most likely do not have CF
 -   If an individual has between 30 is 59 mmol/L, they may have CF is possible, but an additional sweat test is needed to confirm the diagnosis
 -   If an individual has over 29 60 mmol/L, they most likely have CF
