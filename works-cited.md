@@ -67,6 +67,8 @@ Purcell, J. (2022, January 10). Living with an Invisible Illness. _Cystic Fibros
 
 ### Images
 
+_Affects of CF on the Body_. [https://www.nhlbi.nih.gov/sites/default/files/inline-images/cystic-fibrosis-body.jpg]
+
 _CFTR Protein_. [https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-fx1.jpg]
 
 _Person Graphic_. [https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Protein_CFTR_PDB_1xmi.png/800px-Protein_CFTR_PDB_1xmi.png]
