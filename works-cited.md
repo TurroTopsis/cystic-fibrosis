@@ -1,4 +1,4 @@
-# Works Cited
+# Works Cited - t1
 
 ## Introduction
 
@@ -6,7 +6,7 @@ Cystic fibrosis (CF) is an autosomal recessive genetic disorder that affects all
 
 ### Genes and Proteins:
 
-_Basics of the CFTR Protein_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from [](https://www.cff.org/research-clinical-trials/basics-cftr-protein)
+_Basics of the CFTR Protein_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from [https://www.cff.org/research-clinical-trials/basics-cftr-protein]()
 > This article explained the purpose of functional CFTR (cystic fibrosis transmembrane conductance regulator), and how its mutation causes CF. CFTR is a protein made of approximately 1,480 amino acids that acts as an ion channel, facilitating the transport of Cl⁻ from the cytoplasm to the extracellular matrix. This extracellular Cl⁻ attracts water to the cell surface, allowing cilia (hairs on the surface of lung cells) to sweep excess mucus out of airways. In CF patients, CFTR is dysfunctional, so Cl⁻ is not transported to the matrix, so water doesn’t hydrate the cell surface. This causes mucus covering cells to become thick and sticky, clogging the airways. 
 
 _CF Genetics: The Basics_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from https://www.cff.org/intro-cf/cf-genetics-basics
