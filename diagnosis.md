@@ -7,6 +7,7 @@ With only approximately 1,000 new cases of CF diagnosed annually, it is quite a 
 *   Approximately 70,000 people worldwide have CF (1 in 100,000)
 
 ![Population Frequency Infographic](img/frequency.png)
+
 _Even though the United States has disproportionately more CF cases than anywhere else in the world, only 1 in 10,000 Americans have CF, making it quite a rare genetic disorder._
 
 ## Carrier Testing
@@ -29,7 +30,8 @@ Within the first few days of the baby’s life, a few blood drops from a heel pr
 The most reliable way to diagnose CF is to perform a sweat test, a painless one hour exam that measures the amount of Cl⁻ in the sweat. First, pilocarpine, a colorless, odorless chemical, and electrical stimulation is applied to the arm or leg to stimulate sweat glands to produce. The sweat is then collected and tested for its Cl⁻ concentration. The very same day, a diagnosis is issued:
 -   If an individual has less than 29 millimoles Cl⁻ per liter of sweat, they most likely do not have CF
 -   If an individual has between 30 is 59 mmol/L, they may have CF is possible, but an additional sweat test is needed to confirm the diagnosis
--   If an individual has over 29 60 mmol/L, they most likely have CF
+-   If an individual has over 60 mmol/L, they most likely have CF
 
 ![Sweat test](img/sweat_test.jpg)
+
 _The baby happily sits for the quick and painless sweat test._
