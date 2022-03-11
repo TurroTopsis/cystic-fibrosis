@@ -1,4 +1,4 @@
-# Works Cited - t1
+# Works Cited
 
 ## Introduction
 
