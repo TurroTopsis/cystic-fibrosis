@@ -69,7 +69,7 @@ Purcell, J. (2022, January 10). Living with an Invisible Illness. _Cystic Fibros
 
 _CFTR Protein_. https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-fx1.jpg
 
-_Person Graphic_. https://img.favpng.com/21/6/5/silhouette-person-clip-art-png-favpng-rBwRnnmjHZHRrKSraN1ZEKybR.jpg
+_Person Graphic_. https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Protein_CFTR_PDB_1xmi.png/800px-Protein_CFTR_PDB_1xmi.png
 
 ## Conclusion
 
