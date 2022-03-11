@@ -4,7 +4,7 @@ CF is an **autosomal recessive** disorder.
 *   The fact that it is _autosomal_ means that the CFTR gene is carried on somatic, non-sex chromosomes, so the disorder is equally common amongst men and women
 *   The fact that it is _recessive_ means that an individual must inherit the recessive allele from both parents to have the disorder
 
-The **recessive allele** (denoted by a lowercase c) carries a gene that produces dysfunctional CFTR, whereas the **dominant allele** (denoted by an uppercase C) carries a gene that produces functional CFTR. There are approximately 1,700 known mutations of the CFTR gene that produce a dysfunctional protein, thus causing CF.
+The **dominant allele** (denoted by an uppercase C) carries a gene that produces functional CFTR, wheras the **recessive allele** (denoted by a lowercase c) carries a gene that produces dysfunctional CFTR. There are approximately 1,700 known mutations of the CFTR gene that produce a dysfunctional protein, thus causing CF.
 - If an individual inherits 2 recessive alleles, they are a CF patient
 - If an individual inherits 1 recessive allele, they are a **carrier**
   - _Carriers_ do not express symptoms of CF, but they may pass the recessive allele onto their children
