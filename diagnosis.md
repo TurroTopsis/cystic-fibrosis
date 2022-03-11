@@ -30,3 +30,6 @@ The most reliable way to diagnose CF is to perform a sweat test, a painless one 
 -   If an individual has less than 29 millimoles Cl⁻ per liter of sweat, they most likely do not have CF
 -   If an individual has between 30 is 59 mmol/L, they may have CF is possible, but an additional sweat test is needed to confirm the diagnosis
 -   If an individual has over 29 60 mmol/L, they most likely have CF
+
+![Sweat test](img/sweat_test.jpg)
+_The baby happily sits for the quick and painless sweat test._
