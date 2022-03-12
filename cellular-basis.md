@@ -2,7 +2,7 @@
 
 CF patients have a genetic mutation somewhere in the **cystic fibrosis transmembrane conductance regulator (CFTR)** gene (located on chromosome 7) so that their cells either produce dysfunctional or not enough CFTR protein. 
 
-![Structure of the CFTR protien](img/protien.png)
+![Structure of the CFTR protien](img/protein.png)
 
 _The CFTR protein is made of 1,480 amino acids._
 
