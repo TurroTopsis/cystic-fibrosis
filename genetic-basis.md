@@ -38,6 +38,8 @@ There are 5 categories of CF-causing mutations:
 
 *    **Splice mutations** occur when the protein-coding region of the CFTR gene has no mutations, but the regulatory portion of the gene has a mutation that causes the mRNA to be processed incorrectly. The CFTR gene is transcribed into pre-mRNA normally, but when the cell goes to process it by removing unneeded _introns_ (non-coding portion of gene) so that only the necessary _exons_ (coding portion of gene) remain, the cell doesn’t know where to splice because the regulatory gene was mutated. Thus, the processed mRNA is left with some bases from the introns and lacks some from the exons. This incorrect mRNA is translated, but it produces a dysfunctional protein. Depending on how many mistakes the cell made in splicing the mRNA, the CFTR protein produced may be more or less functional, so the severity of symptoms associated with this mutation varies.
 
+![Diagram of splice mutation](img/splice.png)
+
 {:start="2"}
 2. **Protein Processing** mutations result in functional protein being made, but it never reaches the cell surface where it is needed to function. There are 3 subcategories to this mutations:
 
