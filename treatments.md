@@ -28,7 +28,7 @@ enzyme_pills.jpg
 
 6. **Fitness plan**: Patients work with their doctors to create a personalized fitness plan to help improve energy, lung function, and overall health. 
 
-7. **CFTR modulators**: Patients take medications that target the defect in their specific CFTR protein. **Trikafta** is one popular modulator, recently FDA approved in 2019, composed of three different modulating medications: _Elexacaftor_, _Tezacaftor_, and _Ivacaftor_. For many patients, this combination of modulators has proven especially effective in attacking their CF at the source. 
+7. **CFTR modulators**: Patients take medications that target the defect in their specific CFTR protein. [**Trikafta**](https://www.trikafta.com/){:target="_blank"} is one popular modulator, recently FDA approved in 2019, composed of three different modulating medications: _Elexacaftor_, _Tezacaftor_, and _Ivacaftor_. For many patients, this combination of modulators has proven especially effective in attacking their CF at the source. 
 
 ![Trikafta Packaging](img/trikafta.png)
 
