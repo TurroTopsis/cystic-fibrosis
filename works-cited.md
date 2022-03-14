@@ -73,6 +73,8 @@ _CFTR Protein_. [https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-
 
 _Person Graphic_. [https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Protein_CFTR_PDB_1xmi.png/800px-Protein_CFTR_PDB_1xmi.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Protein_CFTR_PDB_1xmi.png/800px-Protein_CFTR_PDB_1xmi.png){:target="_blank"}
 
+_Prognosis over Time_. [https://cystic-fibrosis.com/wp-content/uploads/2021/06/CF-life-expectancy-IAI.png](https://cystic-fibrosis.com/wp-content/uploads/2021/06/CF-life-expectancy-IAI.png){:target="_blank"}
+
 _Splice Site Mutation_. [https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SplicingSlide.png/375px-SplicingSlide.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SplicingSlide.png/375px-SplicingSlide.png){:target="_blank"}
 
 _Sweat Test_. [https://www.cff.org/sites/default/files/styles/image_card/public/webimage-A65FA1B9-6634-431A-9BA6E23A07E9D43B.jpg?itok=rAg3Lga-](https://www.cff.org/sites/default/files/styles/image_card/public/webimage-A65FA1B9-6634-431A-9BA6E23A07E9D43B.jpg?itok=rAg3Lga-){:target="_blank"}
