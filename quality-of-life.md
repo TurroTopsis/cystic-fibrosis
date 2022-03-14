@@ -38,3 +38,11 @@ Some individuals have intermediate symptoms of CF, meaning they have **CFTR-rela
 *   At most one of their mutated alleles confers physical symptoms of CF
 
 Babies with CRMS have an unclear future as they have intermediate symptoms of CF. They have an increased risk for problems of the airways, sinuses, intestines, pancreas, and reproductive system, and may later be diagnosed with full-scale CF. 
+
+## Prognosis
+
+Thanks to modern medical care, many patients can live full lives, with the average lifespan of CF patients reaching 47 years of age. This is a great progress from the 1950s, when most patients died in childhood. Despite the great various treatments that enable patients to live full lives, there is still no cure for CF. 
+
+![Predicted age of survival for CF patients over time](img/prognosis.png)
+
+_The predicted age of survival for CF patients has increased rapidly over time thanks to many advances in modern medicine._
