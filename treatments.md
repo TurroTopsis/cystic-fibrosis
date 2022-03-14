@@ -12,7 +12,7 @@ Because each patient has different mutations that affect how well the CFTR prote
 ![Nebulizer](img/nebulizer.jpg)
 
 {:start="3"}
-3. **Sanitization**: Patients must be very careful about sanitization because they are especially vulnerable to infections. As Ms. Rice explained, “It’s just this constant awareness of what you’re exposed to and how you’re preventing germs from entering the body.” In a personal interview, Ms. Rice described some of the sanitization measures that her family implements to keep their daughter safe:
+3. **Sanitization**: Patients must be very careful about sanitization because they are especially vulnerable to infections. As Mrs. Rice explained, “It’s just this constant awareness of what you’re exposed to and how you’re preventing germs from entering the body.” In a personal interview, Mrs. Rice described some of the sanitization measures that her family implements to keep their daughter safe:
 
 > “She has about 50 toothbrushes. . . She uses it once and it goes into the dishwasher and gets boiled and UV sanitized."
 
