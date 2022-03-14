@@ -12,8 +12,6 @@ _Basics of the CFTR Protein_. Cystic Fibrosis Foundation. (n.d.). Retrieved Janu
 _CF Genetics: The Basics_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from [https://www.cff.org/intro-cf/cf-genetics-basics](https://www.cff.org/intro-cf/cf-genetics-basics){:target="_blank"}
 > This article was helpful in summarizing the genetic basis of CF. CF is an autosomal recessive disease, which means that if a person inherits 2 mutated copies of CFTR, they have CF, but if they inherit only 1 mutated copy of CFTR, they are a carrier that doesn’t have CF, but can pass it on to their children. Approximately 10,000,000 Americans are CF carriers, while approximately 30,000 Americans have CF: it makes logical sense that there are more carriers than patients since it is less likely to inherit 2 than 1 mutated gene.
 
-_CRISPR-Cas9_. [https://www.pearson.com/us/content/dam/one-dot-com/one-dot-com/us/en/higher-ed/en/custom-product/urry-campbell-biology-11e/images/kf-keep-current-scientific-advances.png](https://www.pearson.com/us/content/dam/one-dot-com/one-dot-com/us/en/higher-ed/en/custom-product/urry-campbell-biology-11e/images/kf-keep-current-scientific-advances.png){:target="_blank"}
-
 _Types of CFTR Mutations_. Cystic Fibrosis Foundation. (n.d.). Retrieved January 18, 2022, from [https://www.cff.org/research-clinical-trials/types-cftr-mutations](https://www.cff.org/research-clinical-trials/types-cftr-mutations){:target="_blank"}
 > This article provided an in-depth view of the 5 types of CF-causing mutations. Protein production mutations—such as nonsense and slice mutations—results in dysfunctional CFTR being produced. In protein processing mutations—such as missense mutations and F508del, the most common CF-causing mutation—normal CFTR is produced, but it is made dysfunctional by the time it reaches the cell membrane or never reaches the membrane at all. Gating mutations cause CFRT to be permanently closed as an ion channel. Conduction mutations cause Cl⁻ to flow through CFRT slower. Insufficient protein means that simply not enough CFTR is produced to deal with all the Cl⁻. 
 
@@ -72,6 +70,8 @@ Purcell, J. (2022, January 10). Living with an Invisible Illness. _Cystic Fibros
 _Affects of CF on the Body_. [https://www.nhlbi.nih.gov/sites/default/files/inline-images/cystic-fibrosis-body.jpg](https://www.nhlbi.nih.gov/sites/default/files/inline-images/cystic-fibrosis-body.jpg){:target="_blank"}
 
 _CFTR Protein_. [https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-fx1.jpg](https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-fx1.jpg){:target="_blank"}
+
+_CRISPR-Cas9_. [https://www.pearson.com/us/content/dam/one-dot-com/one-dot-com/us/en/higher-ed/en/custom-product/urry-campbell-biology-11e/images/kf-keep-current-scientific-advances.png](https://www.pearson.com/us/content/dam/one-dot-com/one-dot-com/us/en/higher-ed/en/custom-product/urry-campbell-biology-11e/images/kf-keep-current-scientific-advances.png){:target="_blank"}
 
 _Nebulizer_. [https://cysticfibrosisnewstoday.com/wp-content/uploads/2019/07/shutterstock_621845186.jpg](https://cysticfibrosisnewstoday.com/wp-content/uploads/2019/07/shutterstock_621845186.jpg){:target="_blank"}
 
