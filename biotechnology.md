@@ -14,9 +14,9 @@ While it is relatively simple for researchers to use CRISPR to cure CF on the ce
 
 1. In the early stages of an _embryo_ (developing baby in the womb) that is known to have CF, researchers could perform CRISPR on each of its few cells to replace the mutated CFTR gene with functional ones. As the embryo continues to grow through mitosis (cellular division of somatic cells to produce identical daughter cells), the corrected CFTR gene would be passed on to every cell in the developing body. Thus, upon birth, all of the baby’s cells would have functional CFTR genes thanks to gene editing of the first few embryonic cells. 
 
-![Diagram of embryonic development](img/embryo.png)
+![Diagram of embryonic development](img/embryo1.png)
 
 {:start="2"}
 2. Researchers can gather lung **stem cells** (undifferentiated cells that produce various other differentiated cells) from a CF patient that needs a lung transplant. They can then perform CRISPR on the stem cells to replace the mutated CFTR gene with functional ones. The stem cells, now cured of CF, can now grow into a full lung that is not afflicted with CF. The researchers can then transplant the CF-free lung into the original patient, with less risk of transplant rejection since it came from the patient's own stem cells. 
 
-![Diagram of stem cells](img/stem_cell.png)
+![Diagram of stem cells](img/stem_cell1.png)
