@@ -6,7 +6,7 @@ The [**Cystic Fibrosis Foundation (CFF)**](https://www.cff.org/){:target="_blank
 2. The CFF website provides a myriad of educational [articles](https://www.cff.org/intro-cf){:target="_blank"} about the cellular and genetic nature of CF, the various symptoms, and possible treatments
 3. The CFF sponsors research to develop novel CF treatments and search for a potential cure, and maintains a [Patient Registry](https://www.cff.org/medical-professionals/patient-registry){:target="_blank"} to provide researchers valuable information about the health status of CF patients
 4. The CFF [connects](https://www.cff.org/support){:target="_blank"} CF patients with legal experts to help families explore their insurance options and other patients to create a supportive community
-5. The CFF hosts the [Great Stride](https://fightcf.cff.org/site/SPageServer/?pagename=143_gs_landing_page){:target="_blank"} walkathons through the United States to raise money to support their search for a cure to CF
+5. The CFF hosts the [Great Stride](https://fightcf.cff.org/site/SPageServer/?pagename=143_gs_landing_page){:target="_blank"} walkathons through the United States to raise money to support their search for a cure to CF. In a personal interview, Ms. Rice explained that she participates extensively in the Great Stride walkathons and the CFF’s other outreach programs as it is a mutually beneficial relationship: “They [the CFF] helps us, we help them.”
 
 ![Cystic Fibrosis Foundation Logo](img/cff.png)
 
