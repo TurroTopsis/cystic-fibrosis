@@ -85,6 +85,10 @@ _Splice Site Mutation_. [https://upload.wikimedia.org/wikipedia/commons/thumb/1/
 
 _Sweat Test_. [https://www.cff.org/sites/default/files/styles/image_card/public/webimage-A65FA1B9-6634-431A-9BA6E23A07E9D43B.jpg?itok=rAg3Lga-](https://www.cff.org/sites/default/files/styles/image_card/public/webimage-A65FA1B9-6634-431A-9BA6E23A07E9D43B.jpg?itok=rAg3Lga-){:target="_blank"}
 
+_Trikafta Diagram_. [https://www.trikafta.com/sites/default/files/moa-graphic-2%403x.png](https://www.trikafta.com/sites/default/files/moa-graphic-2%403x.png){:target="_blank"}
+
+_Trikafta Packaging_. [https://www.trikafta.com/sites/default/files/6-11-packaging-mockup-option-1-1%403x_060321.png](https://www.trikafta.com/sites/default/files/6-11-packaging-mockup-option-1-1%403x_060321.png){:target="_blank"}
+
 _Types of Mutations_. [https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/possiblemutations/){:target="_blank"}
 
 ## Conclusion
