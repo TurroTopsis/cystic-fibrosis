@@ -63,4 +63,5 @@ There are 5 categories of CF-causing mutations:
 5. **Insufficient Protein** mutations result in less functional protein reaching the cell surface either because less is protein is produced, most of the protein produced is disposed of since it is dysfunctional, or functional protein on the surface degrades too quickly. This type of mutation is often caused by missense and splice mutations, described above. Since patients with this mutation have some functional protein, they experience less severe symptoms, which can be treated by taking _Kalydeco_ or _Symdeko_, which force the ion channels to stay open longer to compensate for there being less CFTR protein on the cell surface. 
 
 ![Diagram of protein processing, gating, and conduction mutations](img/genetic_diagram1.jpg)
+
 ![Diagram of protein productio and insufficient protein mutations](img/genetic_diagram2.jpg)
