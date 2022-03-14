@@ -24,14 +24,14 @@ CF also affects the **digestive system** because the mucus buildup in the _pancr
 
 Some individuals have intermediate symptoms of CF, meaning they have **CFTR-related metabolic syndrome (CRMS)**, also known as _CF Screen Positive Inconclusive Diagnosis (CFSPID)_. Patients typically have mutations in the CFTR gene, but they are not severe enough to cause full-scale CF, only CRMS. Babies can be diagnosed with CRMS if they have high IRT levels in the NBS test, a sweat Cl⁻ value between 30 and 59 mmol/L in the sweat test, and mutations (not necessarily CF-causing) in their CFTR alleles. To confirm the diagnosis, the babies are checked to see if they meet the conditions of one of two CRMS cases:
 
-1. Case 1:
+1. 
 
 *   The baby has a sweat Cl⁻ value less than 30 mmol/L
 *   The baby has mutations in two of their CFTR alleles
 *   At most one of their mutated alleles confers physical symptoms of CF
 
 {:start="2"}
-2. Case 2:
+2. 
 
 *   The baby has a sweat Cl⁻ value between 30 and 59 mmol/L
 *   The baby has mutations in at most one of their CFTR alleles
