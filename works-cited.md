@@ -73,6 +73,8 @@ _CFTR Protein_. [https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-
 
 _CRISPR-Cas9_. [https://www.pearson.com/us/content/dam/one-dot-com/one-dot-com/us/en/higher-ed/en/custom-product/urry-campbell-biology-11e/images/kf-keep-current-scientific-advances.png](https://www.pearson.com/us/content/dam/one-dot-com/one-dot-com/us/en/higher-ed/en/custom-product/urry-campbell-biology-11e/images/kf-keep-current-scientific-advances.png){:target="_blank"}
 
+_Embryonic Development_. [https://cdn1.byjus.com/wp-content/uploads/2020/09/Embryo-Development.png](https://cdn1.byjus.com/wp-content/uploads/2020/09/Embryo-Development.png){:target="_blank"}
+
 _Nebulizer_. [https://cysticfibrosisnewstoday.com/wp-content/uploads/2019/07/shutterstock_621845186.jpg](https://cysticfibrosisnewstoday.com/wp-content/uploads/2019/07/shutterstock_621845186.jpg){:target="_blank"}
 
 _Pancreatic Enzyme Supplement Capsules_. [https://www.creon.com/dist/images/cr30-pills.jpg](https://www.creon.com/dist/images/cr30-pills.jpg){:target="_blank"}
@@ -84,6 +86,8 @@ _Person Graphic_. [https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pro
 _Prognosis over Time_. [https://cystic-fibrosis.com/wp-content/uploads/2021/06/CF-life-expectancy-IAI.png](https://cystic-fibrosis.com/wp-content/uploads/2021/06/CF-life-expectancy-IAI.png){:target="_blank"}
 
 _Splice Site Mutation_. [https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SplicingSlide.png/375px-SplicingSlide.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SplicingSlide.png/375px-SplicingSlide.png){:target="_blank"}
+
+_Stem Cell Diagram_. [https://slideplayer.com/slide/16704027/96/images/14/Cell+division+White+blood+cells.jpg](https://slideplayer.com/slide/16704027/96/images/14/Cell+division+White+blood+cells.jpg){:target="_blank"}
 
 _Sweat Test_. [https://www.cff.org/sites/default/files/styles/image_card/public/webimage-A65FA1B9-6634-431A-9BA6E23A07E9D43B.jpg?itok=rAg3Lga-](https://www.cff.org/sites/default/files/styles/image_card/public/webimage-A65FA1B9-6634-431A-9BA6E23A07E9D43B.jpg?itok=rAg3Lga-){:target="_blank"}
 
