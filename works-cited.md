@@ -71,6 +71,10 @@ _Affects of CF on the Body_. [https://www.nhlbi.nih.gov/sites/default/files/inli
 
 _CFTR Protein_. [https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-fx1.jpg](https://ars.els-cdn.com/content/image/1-s2.0-S0092867417302398-fx1.jpg){:target="_blank"}
 
+_Nebulizer_. [https://cysticfibrosisnewstoday.com/wp-content/uploads/2019/07/shutterstock_621845186.jpg](https://cysticfibrosisnewstoday.com/wp-content/uploads/2019/07/shutterstock_621845186.jpg){:target="_blank"}
+
+_Pancreatic Enzyme Supplement Capsules_. [https://www.creon.com/dist/images/cr30-pills.jpg](https://www.creon.com/dist/images/cr30-pills.jpg){:target="_blank"}
+
 _Percussion Vest_. [https://bronchiectasis.com.au/wp-content/uploads/2015/09/The-Vest.jpg](https://bronchiectasis.com.au/wp-content/uploads/2015/09/The-Vest.jpg){:target="_blank"}
 
 _Person Graphic_. [https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Protein_CFTR_PDB_1xmi.png/800px-Protein_CFTR_PDB_1xmi.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Protein_CFTR_PDB_1xmi.png/800px-Protein_CFTR_PDB_1xmi.png){:target="_blank"}
