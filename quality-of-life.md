@@ -6,7 +6,7 @@
 2. Chronic coughing, sometimes with phlegm: _caused by build-up of mucus in airways_
 3. Wheezing or shortness of breath: _caused by build-up of mucus in airways_
 4. Frequent lung infections (pneumonia, bronchitis, etc): _caused by build-up of mucus in airways, which traps bacteria in the lungs_
-5. Chronic sinus infections: _caused by build-up of mucus in airways, which traps bacteria in the sinuses_
+5. Frequent sinus infections: _caused by build-up of mucus in airways, which traps bacteria in the sinuses_
 6. Poor or stunted growth: _caused by inefficacy of digestive system to absorb nutrients from food_
 7. Difficulty with bowel movements: _caused by inefficacy of digestive system_
 
